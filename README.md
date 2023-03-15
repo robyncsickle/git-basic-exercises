@@ -1,3 +1,3 @@
 Hey this is git basics 
-
-Ths is the secind change to this file 
+git second commit
+Ths is the second change to this file 
